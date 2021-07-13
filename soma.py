@@ -1,3 +1,5 @@
+#Criando um algoritmo para somar duas variáveis
+
 a = int(input('Digite um valor:'))
 b = int(input('Digite outro valor: '))
 soma = a+b
